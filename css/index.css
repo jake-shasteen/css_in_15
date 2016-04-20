@@ -51,10 +51,26 @@ footer {
 }
 
 @media (min-width: 769px) {
+  .gallery li,
   .nav li {
     display: inline-block;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .gallery li {
+    width: 33%;
+  }
+
+  .gallery img {
+    max-height: 200px;
   }
 }
 
 @media (min-width: 1025px) {
+  .container {
+    width: 80%;
+  }
 }
