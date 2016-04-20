@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #E6E6E6;
+}
+
+header {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  margin-bottom: 40px;
+  text-align: center;
+  width: 80%;
+}
+
+.container img {
+  padding: 10px 0;
+  max-width: 100%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40px;
+  background: #424242;
+  text-align: center;
+}
+
+.copyright {
+  position: relative;
+  top: 10px;
+  color: #E6E6E6;
+}
