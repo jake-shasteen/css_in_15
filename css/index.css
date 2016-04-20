@@ -51,6 +51,9 @@ footer {
 }
 
 @media (min-width: 769px) {
+  .nav li {
+    display: inline-block;
+  }
 }
 
 @media (min-width: 1025px) {
