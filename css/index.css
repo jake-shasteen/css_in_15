@@ -56,7 +56,11 @@ footer {
   }
 
   .container {
-    width: 100%;
+    width: 90%;
+  }
+
+  .gallery {
+    text-align: left;
   }
 
   .gallery li {
